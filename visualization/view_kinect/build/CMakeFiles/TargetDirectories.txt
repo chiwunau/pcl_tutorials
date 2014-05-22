@@ -1,0 +1,1 @@
+/home/leus/pcl_tutiorials/visualization/view_kinect/build/CMakeFiles/view_kinect.dir

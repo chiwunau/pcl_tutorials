@@ -22,7 +22,7 @@
      interface->registerCallback (f);  
   
      interface->start ();  
-  
+     //     viewer.resetCameraViewpoint("cloud");
      while (!viewer.wasStopped())  
        {  
          sleep (1);  

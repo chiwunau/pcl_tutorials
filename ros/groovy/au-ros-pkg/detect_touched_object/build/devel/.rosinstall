@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/au/ros/groovy/au-ros-pkg/detect_touched_object/build/devel/setup.sh

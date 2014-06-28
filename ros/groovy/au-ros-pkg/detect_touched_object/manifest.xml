@@ -1,0 +1,14 @@
+<package>
+  <description brief="detect_touched_object">
+
+     detect_touched_object
+
+  </description>
+  <author>Au</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/detect_touched_object</url>
+
+</package>
+
+
